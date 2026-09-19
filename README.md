@@ -1,2 +1,2 @@
 # ComapanyFlow
-a complete automated company systems
+complete automated company systems
